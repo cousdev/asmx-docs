@@ -49,6 +49,13 @@ LOAD [r] [ra] ; Instruction reference for LOAD
 LOAD u1 #20 ; This is valid, because a RAM address is the same as an immediate.
 ```
 
+## string
+The `[string]` descriptor is only used in macro instructions (you'll learn about them later). A string is basically a sentence, marked using quotation marks. It looks like this:
+
+```asm
+"This is a string."
+```
+
 ---
 
 ## Test your knowledge

@@ -1,2 +1,22 @@
 site_name: ASMX Docs
 theme: readthedocs
+
+nav:
+  - Welcome!: index.md
+  - Guide:
+      - Contents: guide/index.md
+      - 1. Getting Started: guide/Getting Setup.md
+      - 2. What is ASMX: guide/What is ASMX.md
+      - 3. Registers: guide/Registers.md
+      - 4. Instruction Format: guide/Instruction Format.md
+      - 5. Reading Instruction References: guide/Reading Instructions.md
+      - 6. Arithmetic: guide/Arithmetic.md
+  - Reference:
+      - Instruction Set Reference: reference/instruction_set.md
+      - Registers Reference: reference/registers.md
+      - Hardcalls Reference: reference/hardcalls.md
+      - IOKit Reference: reference/iokit.md
+      - Character Encoding Reference: reference/characters.md
+  - Examples:
+      - Hello World: demos/hello_world.md
+      - Rock, Paper, Scissors: demos/rps.md

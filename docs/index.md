@@ -1,4 +1,7 @@
 # Welcome to the ASMX Documentation!
+
+**NOTE: This documentation is still being written, this is not a complete experience ⚠️**
+
 This site contains documentation about the ASMX platform.
 ASMX is a modular development platform, which consists of:
 
@@ -35,4 +38,13 @@ The documentation is split into the Guide and Reference sections.
 - [The Guide](guide/index.md)
  is designed to teach you how to use the ASMX platform to build projects. It explains core low-level concepts. 
 
-- [The References](reference/index.md) are for experienced individuals who need specs, such as syntax details, or the Instruction Set list.
+- The References are for experienced individuals who need specs, such as syntax details, or the Instruction Set list.
+
+---
+
+## Useful Links
+
+- [ASMX GitHub Repository](https://github.com/cousdev/asmx/)
+- [ASMX Documentation GitHub Repository](https://github.com/cousdev/asmx-docs/)
+- [ASMX PyPI Package](https://pypi.org/project/asmx/)
+- [ASMX Virtual Machine Download](https://github.com/cousdev/asmx/releases)
