@@ -47,4 +47,5 @@ The documentation is split into the Guide and Reference sections.
 - [ASMX GitHub Repository](https://github.com/cousdev/asmx/)
 - [ASMX Documentation GitHub Repository](https://github.com/cousdev/asmx-docs/)
 - [ASMX PyPI Package](https://pypi.org/project/asmx/)
+- [ASMX TestPyPI Package](https://test.pypi.org/project/asmx/)
 - [ASMX Virtual Machine Download](https://github.com/cousdev/asmx/releases)
